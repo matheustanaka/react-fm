@@ -1,6 +1,6 @@
 import { render } from "react-dom";
 // import Pet from "./Pet";
-import { SearchParams } from "./SearchParams";
+import { SearchParams } from "./components/SearchParams";
 const App = () => {
   return (
     <div>
